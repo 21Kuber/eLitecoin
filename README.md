@@ -1,1 +1,1 @@
-# eLite
+# eLitecoin
